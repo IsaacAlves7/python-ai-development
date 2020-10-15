@@ -17,6 +17,61 @@
 <blockquote><i>"A arte de criar máquinas que executem funções que exijam inteligência quando executadas por pessoas.” - <b>Kurzweil</b>, 1990.</b></blockquote></i>
 <blockquote><i>"O estudo de como fazer computadores realizarem coisas nas quais, no momento, as pessoas são melhores.” - <b>Rich and Knight</b>, 1991.</b></blockquote></i>
 <blockquote><i>"O campo de estudos que procura emular comportamento inteligente em termos de processos computacionais.” - <b>Schalkoff</b>, 1990.</b></blockquote></i>
+<blockquote><i>"O ramo da ciência da computação que está interessado em automatizar comportamento inteligente.” - <b>Luger e Stubblefield</b>, 1993.</b></blockquote></i>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 <h2>Genetic Algorithms</h2>
 <img src="https://i.morioh.com/200602/bc57747e.jpg"/>
