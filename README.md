@@ -18,6 +18,7 @@
 <blockquote><i>"O estudo de como fazer computadores realizarem coisas nas quais, no momento, as pessoas são melhores.” - <b>Rich and Knight</b>, 1991.</b></blockquote></i>
 <blockquote><i>"O campo de estudos que procura emular comportamento inteligente em termos de processos computacionais.” - <b>Schalkoff</b>, 1990.</b></blockquote></i>
 <blockquote><i>"O ramo da ciência da computação que está interessado em automatizar comportamento inteligente.” - <b>Luger e Stubblefield</b>, 1993.</b></blockquote></i>
+<blockquote><i>"O campo de estudos que busca desenvolver técnicas computacionais para realizar tarefas que requerem inteligência quando realizadas por seres humanos. Envolve o desenvolvimento de tecnologia que permita lidar com categorias tais como raciocínio, aprendizado e percepção.” - <b>Takimoto</b>, 1987.</b></blockquote></i>
 
 
 
