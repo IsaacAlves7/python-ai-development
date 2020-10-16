@@ -84,6 +84,21 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1070"/>
 <p></p>
 
+<h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
+<img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1070"/>
+<p></p>
+
+<h2>🔀 Sistemas Nebulosos (Lógica Fuzzy) 💹</h2>
+<img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1070"/>
+<p></p>
+
+<h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
+<img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1070"/>
+<p></p>
+
+
+
+
 
 
 
