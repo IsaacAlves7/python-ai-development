@@ -30,7 +30,7 @@ Algumas possibilidades são:
   <li>Decidir diante a incerteza?</li>   
   <li>Reconhecer um objeto pela a imagem?</li> 
   <li>Prever um acontecimento?</li>
-  <li>Falar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Refletir? Repetir?</li>
+  <li>Falar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Refletir? Repetir? Interagir? Trabalhar?</li>
 </ul>
 </p>
 
