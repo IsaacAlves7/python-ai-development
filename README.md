@@ -33,8 +33,9 @@ Algumas possibilidades são:
   <li>Resolver problemas combinatórios trabalhosos e complexos?</li>
   <li>Decidir diante a incerteza?</li>   
   <li>Reconhecer um objeto pela a imagem?</li> 
+  <li>Reconhecer o som de um objeto e saber distingui-lo?</li>   
   <li>Prever um acontecimento?</li>
-  <li>Falar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Refletir? Repetir? Interagir? Trabalhar?</li>
+  <li>Falar? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Refletir? Repetir? Interagir? Trabalhar?</li>
 </ul>
 </p>
 
