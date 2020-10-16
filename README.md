@@ -93,7 +93,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <p></p>
 
 <h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
-<img src="https://pontobiologia.com.br/wp-content/uploads/2017/12/DNA.jpg" width="1070"/>
+<img src="https://miro.medium.com/max/3840/1*lHRxbG6iBh1eNkYi-NID4w.jpeg" width="1070"/>
 <p></p>
 
 
