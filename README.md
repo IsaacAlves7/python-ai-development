@@ -116,10 +116,10 @@ Os <b>operadores</b> executam <b>transformações na base de estados</b>, ou sej
 Se pudermos escolher entre diversos operadores em uma determinada situação, então precisamos de uma <b>estratégia de controle</b>.
 
 <b>O sistema basicamente computa:<b>
-<pre><b>Estado &rarr; estado inicial</b></pre>
+<pre><b>Estado &larr; estado inicial</b></pre>
 
 <b>Enquanto não for satisfeita uma condição de término: Selecione um operador R</b>
-<pre><b>Novo estado &rarr; R (estado atual)<b></pre>
+<pre><b>Novo estado &larr; R (estado atual)<b></pre>
 
 A condição de término é alcançada se foi atingido um estado final, se não há mais operadores aplicáveis ao estado atual ou se não há mais recursos computacionais.
 
