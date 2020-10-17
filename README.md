@@ -114,6 +114,15 @@ A <b>bases de estados</b> é o conjunto de configurações que o problema pode a
 Os <b>operadores</b> executam <b>transformações na base de estados</b>, ou seja, <b>levam o problema de um estado a outro</b>. Resolver o problema é, na verdade, determinar a <b>sequência de operadores</b> que deve ser aplicada a partir do <b>estado inicial</b>, de forma a atingir <b>um dos estados finais</b>. 
 
 Se pudermos escolher entre diversos operadores em uma determinada situação, então precisamos de uma <b>estratégia de controle</b>.
+
+<b>O sistema basicamente computa:<b>
+<pre><b>Estado &rarr; estado inicial</b></pre>
+
+<b>Enquanto não for satisfeita uma condição de término: Selecione um operador R</b>
+<pre><b>Novo estado &rarr; R (estado atual)<b></pre>
+
+A condição de término é alcançada se foi atingido um estado final, se não há mais operadores aplicáveis ao estado atual ou se não há mais recursos computacionais.
+
 </p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
