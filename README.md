@@ -105,7 +105,7 @@ O <i>jogo</i> em si é uma <b>sucessão de estados distintos, reconhecíveis e i
 </p>
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
-<img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1070"/>
+<img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1040"/>
 <p></p>
 
 ### Ilustrando um exemplo de rede neural
