@@ -84,7 +84,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 
 <hr>
 
-<h2>🌳 Sistemas baseados em Conhecimento 🎄</h2>
+<h2>🧰 Sistemas de Produção </h2>
 <img src="https://youwilldobetter.com/wp-content/uploads/2014/11/webinar-conhecimento.jpg" width="1000"/>
 <p>A primeira técnica que estudaremos, aplica-se a uma <em>classe de problemas</em> que será definida mais à frente e que é genericamente chamada de <b>Sistemas de Produção</b>.
   
@@ -129,10 +129,6 @@ A condição de término é alcançada se foi atingido um estado final, se não 
 Os <b>grafos</b> são constituídos por <b>conjuntos de vértices e de arestas</b>. É possível representar graficamente este conceito. 
 
 Por exemplo, um <em>grafo</em> <b>G</b> com <em>vértices</em> <b>V</b> = {a, b, c} e <em>arestas</em> <b>A</b> = ((a, b), (a, c)), pode ser representado graficamente como na figura.</p>
-
-
-
-
 
 <h2>🧠 Modelos Conexionistas (Redes Neurais) 💫</h2>
 <img src="https://www.pollux.com.br/index/wp-content/uploads/2019/02/redes-neurais-2.jpg" width="1040"/>
