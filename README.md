@@ -135,7 +135,7 @@ Por exemplo, um <em>grafo</em> <b>G</b> com <em>vértices</em> <b>V</b> = {a, b,
 
 <p>Em um <strong>grafo de estados</strong>, cada vértice representa um estado e cada aresta a aplicação de um operador que causa a mudança de estado.
   
-Vamos apresentar um exemplo que pode ser representado como um grafo de estados e é conhecido como o problema dos <b>jarros d’água</b>:
+Vamos apresentar um exemplo que pode ser representado como um grafo de estados e é conhecido como o problema dos <b>jarros d’água</b>🏺🏺:
 
 Considere dois jarros opacos, nos quais não é possível observar o conteúdo. Um jarro A tem capacidade para 4 litros e um jarro B tem capacidade para 3 litros. Queremos colocar exatamente dois litros de água no jarro A. Para tanto, temos as seguintes operações disponíveis: encher totalmente um dos jarros; esvaziar totalmente um dos jarros; e, passar o conteúdo de um jarro para o outro. 
 </p>
