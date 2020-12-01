@@ -127,9 +127,8 @@ A condição de término é alcançada se foi atingido um estado final, se não 
 
 <h3>Representação</h3>
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Breadth-First-Search-Algorithm.gif/250px-Breadth-First-Search-Algorithm.gif"/></div>
-<p>É possível representar um <b>Sistema de Produção</b> através de <b>Grafos de Estado</b>. 
-
-Os <b>grafos</b> são constituídos por <b>conjuntos de vértices e de arestas</b>. É possível representar graficamente este conceito. 
+<blockquote>É possível representar um <b>Sistema de Produção</b> através de <b>Grafos de Estado</b>.</blockquote>
+<p>Os <b>grafos</b> são constituídos por <b>conjuntos de vértices e de arestas</b>. É possível representar graficamente este conceito. 
 
 Por exemplo, um <em>grafo</em> <b>G</b> com <em>vértices</em> <b>V</b> = {a, b, c} e <em>arestas</em> <b>A</b> = ((a, b), (a, c)), pode ser representado graficamente como na figura.</p>
 
