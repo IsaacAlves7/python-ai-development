@@ -50,7 +50,7 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
   <li><b>Examinam o seu raciocínio</b>.</li> 
   <li>Podem <b>justificar conclusões</b>.</li> 
   <li>Atuam mesmo com <b>conhecimento incompleto ou impreciso</b>.</li> 
-  <li>Principais aplicações: jogos, configurações de produtos, emissão de propostas, telemarketing, distribuição, concessão de crédito, gestão de carteira, orientação a clientes, seleção, orçamento, planejamento estratégico, alocação de recursos, diagnóstico, terapêutica, sistemas tutoriais e psico-testes.</li>   
+  <li><b>Principais aplicações:</b> jogos, configurações de produtos, emissão de propostas, telemarketing, distribuição, concessão de crédito, gestão de carteira, orientação a clientes, seleção, orçamento, planejamento estratégico, alocação de recursos, diagnóstico, terapêutica, sistemas tutoriais e psico-testes.</li>   
 </ul>
 
 <h3>🧠 Modelos Conexionistas (Redes Neurais)</h3>
@@ -61,22 +61,22 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
   <li>Aprendem com treinamento.</li> 
   <li><b>Generalizam o conhecimento aprendido</b>.</li> 
   <li>Por não lidarem com conhecimento simbólico, <b>não justificam decisões</b>.</li>   
-  <li>Algumas aplicações: Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
+  <li><b>Algumas aplicações:</b> Reconhecimento de fala, classificação de sinais de sensores, reconhecimento de imagens, previsão de índices do mercado financeiro, previsão de séries temporais, reconhecimento de voz, aplicações gerais de classificação, agrupamento e previsão.</li>    
 </ul>
 
 <h3>🔀 Sistemas Nebulosos (Lógica Fuzzy)</h3>
 <ul>
-  <li>Modelam os modos imprecisos do raciocínio aproximado que influenciam na habilidade humana de tomar decisões.</li>
-  <li>Realizam o raciocínio aproximado, com proposições imprecisas, descritas em linguagem natural usando a teoria de conjuntos nebulosos como ferramenta para convertê-las em formato numérico.</li>  
-  <li>Algumas aplicações: controle de aeronaves, operação do metrô, transmissão automática de veículos, controle de elevadores, análise do mercado de ações, ajuste da imagem de TV, autofocus para câmera de vídeo, estabilizador de imagens de filmadoras, controle de máquinas de lavar e sistemas de ar condicionado.</li>    
+  <li>Modelam os <b>modos imprecisos do raciocínio aproximado que influenciam na habilidade humana de tomar decisões</b>.</li>
+  <li>Realizam o <b>raciocínio aproximado, com proposições imprecisas, descritas em linguagem natural usando a teoria de conjuntos nebulosos como ferramenta para convertê-las em formato numérico.</b></li>  
+  <li><b>Algumas aplicações:</b> controle de aeronaves, operação do metrô, transmissão automática de veículos, controle de elevadores, análise do mercado de ações, ajuste da imagem de TV, autofocus para câmera de vídeo, estabilizador de imagens de filmadoras, controle de máquinas de lavar e sistemas de ar condicionado.</li>    
 </ul>
 
 <h3>🧬 Computação Evolucionária (Algoritmos Genéticos)</h3>
 <ul>
-  <li>São algoritmos de otimização global que baseiam-se nos mecanismos da seleção natural e da genética.</li>
-  <li>Empregam uma estratégia de busca paralela e estruturada, que é voltada em direção ao reforço da busca de pontos de “alta aptidão”.</li>  
-  <li>Exploram informações históricas para encontrar novos pontos de busca, onde são esperados melhores desempenhos, através de processos iterativos, onde cada iteração é chamada de geração.</li> 
-  <li>Algumas aplicações: problemas gerais de roteamento, controle de sistemas dinâmicos, indução e otimização de bases de regras, encontrar topologias conexionistas, simulação de modelos biológicos, evolução interativa de imagens.</li>   
+  <li>São algoritmos de otimização global que baseiam-se nos mecanismos da <b>seleção natural e da genética</b>.</li>
+  <li>Empregam <b>uma estratégia de busca paralela e estruturada</b>, que é voltada em direção ao reforço da busca de pontos de “alta aptidão”.</li>  
+  <li>Exploram informações históricas para <b>encontrar novos pontos de busca</b>, onde são esperados melhores desempenhos, através de processos iterativos, onde <b>cada iteração é chamada de "geração"</b>.</li> 
+  <li><b>Algumas aplicações:</b> problemas gerais de roteamento, controle de sistemas dinâmicos, indução e otimização de bases de regras, encontrar topologias conexionistas, simulação de modelos biológicos, evolução interativa de imagens.</li>   
 </ul>
 
 <p>Em suma, o <b>conhecimento</b> é a base para o desenvolvimento de modelos que envolvam <b>inteligência</b>.
