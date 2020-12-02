@@ -212,7 +212,7 @@ Esta estratégia equivale, em algum sentido, à busca irrevogável, na medida qu
 <p>Como o novo nó já aparece na lista, devemos comparar o custo total desta aparição na lista (ABC:3+5=8) com a anterior (AC:=4). Como a anterior possui custo menor, abandonamos esta inserção e, como não há mais caminhos a analisar para este nó (dizemos que ele está fechado), voltamos ao anterior (A) e escolhemos o segundo menor custo dentre os caminhos disponíveis (AC=4).</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100939644-66a99400-34d5-11eb-987e-8015155d0e0c.jpg"/></div>
 <p align="center"><em><strong>Figura 1.8:</strong> Passo 3.</em></p>
-
+<p>Note que não foi colocado o nó A porque o caminho ACA não deve ser considerado, pois o nó A já está neste ramo da árvore. O nó B, que já aparece em outro ramo, deve ser agora verificado com respeito ao custo total, o que acarreta em comparar o custo do caminho ACB (5+4=9) com o custo do caminho AB (3).</p>
 
 
 
