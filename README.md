@@ -161,7 +161,7 @@ Inicialmente os jarros estão vazios, assim, o estado inicial é (0, 0). O que o
 <div align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Breadth-First-Search-Algorithm.gif/250px-Breadth-First-Search-Algorithm.gif"/></div>
 Cada estado só deve aparecer uma vez na árvore, de forma que, caso a aplicação de um operador sobre um determinado estado leve a outro estado que já está na árvore, então este novo estado deve ser descartado (não deve ser incluído na árvore). Isto equivale a dizer que este operador não é aplicável a este estado neste ramo especifico da árvore.</p>
 
-# Síntese do Capítulo 1
+# 🔎📗 Síntese do Capítulo 1 📗🔍
 <blockquote></blockquote>
 <hr>
 <h2>🔎🕳️🌳 Descrição das estratégias de busca em profundidade 🌳🕳️🔍</h2>
