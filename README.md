@@ -31,6 +31,7 @@ Algumas possibilidades são:
   <li>Resolver problemas combinatórios trabalhosos e complexos?</li>
   <li>Decidir diante a incerteza?</li>   
   <li>Reconhecer um objeto pela a imagem?</li> 
+  <li>Gabaritar uma prova com o pouco de conhecimento sobre a matéria?</li> 
   <li>Reconhecer o som de um objeto e saber distingui-lo?</li>   
   <li>Prever um acontecimento?</li>
   <li>Falar? Ouvir? Observar? Conversar? Responder? Perguntar? Pensar? Agir? Obedecer? Orientar? Ler? Desenhar? Cantar? Aprender? Refletir? Repetir? Interagir? Executar?  Trabalhar? Informar? Solicitar? Acessar? Proteger? Ensinar? Reconhecer? Raciocinar? Ou ainda mais polêmico... Amar?</li>
