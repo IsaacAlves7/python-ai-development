@@ -180,7 +180,8 @@ Este método sempre encontra o caminho, caso ele exista. Como expande um nível 
 </p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/100896919-e3b91700-349d-11eb-9284-7f6798114e16.jpg"/></div>
 <p align="center"><em><strong>figura 1.5:</strong> Uma configuração de grafo com custos</em></p>
-<p>Os problemas de encontrar uma rota de um ponto a outro são uma simplificação do problema mais genérico conhecido como o “problema do caixeiro viajante”. No problema do caixeiro viajante original, temos um conjunto de cidades ligadas por estradas, que possuem um <b>custo</b> de ligação entre elas e se deseja percorrer todas as cidades ao menor custo possível sem repetir nenhuma cidade. A figura exibe uma configuração possível para essa interligação entre cidades, nas quais as cidades são os vértices do grafo e as ligações entre elas são as arestas do grafo.</p>
+<p>Os problemas de encontrar uma rota de um ponto a outro são uma simplificação do problema mais genérico conhecido como o <b>“problema do caixeiro viajante”</b>. No problema do caixeiro viajante original, temos um conjunto de cidades ligadas por estradas, que possuem um <b>custo</b> de ligação entre elas e se deseja percorrer todas as cidades ao menor custo possível sem repetir nenhuma cidade. A figura exibe uma configuração possível para essa interligação entre cidades, nas quais as cidades são os vértices do grafo e as ligações entre elas são as arestas do grafo.</p>
+<div align="center"><img src="https://i1.wp.com/datalk.me/wp-content/uploads/2019/03/image-1.png?resize=689%2C375&ssl=1"/></div>
 
 
 
