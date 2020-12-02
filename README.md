@@ -11,7 +11,7 @@
 </ol>
 <hr>
 <h1>🧠 AI - Artificial Intelligence 🖥️</h1>
-<img src="https://s3.amazonaws.com/re-work-production/post_images/821/Untitled_design_%2831%29/original.png?1555488979"/>
+<img src="https://www.multimediadesignstudio.com.br/web/images/blog/inteligengia_artificial.jpg"/>
 <p>Apesar de não haver um consenso sobre o que seja exatamente <b>Inteligência Artificial</b>, diferentes autores procuraram definir o termo ao longo do tempo. A seguir listamos algumas dessas definições:</p>
 <blockquote><i>"A automação de atividades que associamos ao pensamento humano, atividades tais como tomadas de decisão , resolução de problemas, aprendizado .." - <b>Bellman</b>, 1978.</blockquote></i>
 <blockquote><i>"O estudo das computações que tornam possível perceber, racionar e agir.” - <b>Winston</b>, 1992.</b></blockquote></i>
