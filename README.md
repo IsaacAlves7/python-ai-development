@@ -246,7 +246,8 @@ A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos
 <div align="center"><img src="https://www.racoesreis.com.br/wordpress/wp-content/uploads/imagem_do_post-49.jpg" width="1700"/></div>
 <p align="center"><strong>4 - Tem-rabo (Thor)</strong></p>
 <p>Que em linguagem natural equivale a:</p>
-
+<div align="center"><img src="https://www.racoesreis.com.br/wordpress/wp-content/uploads/imagem_do_post-49.jpg" width="1700"/></div>
+<p align="center"><strong>5 - Thor tem rabo</strong></p>
 
 
 
