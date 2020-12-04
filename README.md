@@ -225,7 +225,7 @@ Assim, o caminho ACB deve ser desprezado. Também o nó D já aparece em outro r
 
 Agora resta como aberto apenas o nó E. Como ele é terminal, podemos parar o processo, pois qualquer caminho dele derivado será maior que o caminho até ele, haja vista que o custo sempre é positivo. O caminho encontrado (ADE) é o caminho ótimo (de menor custo). Para encontrar este caminho, o algoritmo fechou 2 nós fora do caminho ótimo (B e C) e 3 no caminho ótimo (A, D e E).</p>
 
-
+<h1 align="center">Cap 03:📖 Regras de Produção e Sistemas Especialistas 🧑‍💼</h1>
 
 
 
