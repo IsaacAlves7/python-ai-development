@@ -235,7 +235,8 @@ Para que possamos compreendê-los, é necessário entender com quais <em>entidad
 A forma de representação mais comum é a <b>linguagem natural</b>. Mas podemos empregar também a lógica matemática como formalismo representacional. Considere o exemplo abaixo:</p>
 
 ### Exemplo: 🧠🐺 Cachorro Thor 🦴💡
-<p><strong>Thor é um cachorro</strong></p>
+<div align="center"><img src="https://www.racoesreis.com.br/wordpress/wp-content/uploads/imagem_do_post-49.jpg" width="1700"/></div>
+<p align="center"><strong>Thor é um cachorro</strong></p>
 
 
 
