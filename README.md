@@ -295,7 +295,7 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
 <p>Na estratégia dirigida a dados (<b>forward chain</b>), acionam-se todas as regras que possam ser acionadas a partir dos dados (fatos) conhecidos.</p>
 
 ### ♟️ Estratégia dirigida a objetos 🪀
-<p>Na estratégia dirigida a objetivos (<b>backward chain</b>), aciona-se somente as regras que possuam na conclusão algum dos objetivos que procuramos. Caso a premissa da regra que desejamos acionar seja desconhecida, estabelecemos esta premissa como o novo objetivo e passamos a buscar regras que a contenha na parte da conclusão. Assim, o objetivo original é provisoriamente abandonado e será retomado (através do acionamento da regra abandonada) quando a premissa necessária à obtenção do objetivo original tenha sido encontrada.</p>
+<p>Na estratégia dirigida a objetivos (<b>backward chain</b>), aciona-se somente as regras que possuam na conclusão algum dos objetivos que procuramos. Caso a premissa da regra que desejamos acionar seja desconhecida, estabelecemos esta premissa como o novo objetivo e passamos a buscar regras que a contenha na parte da conclusão. Assim, o objetivo original é provisoriamente abandonado e será retomado (através do acionamento da regra abandonada) quando a premissa necessária à obtenção do objetivo original tenha sido encontrada. O procedimento é recorrente, isto é, os objetivos são provisoriamente abandonados tantas vezes quanta se faça necessário, formando uma cadeia de busca para trás (backward chain).</p>
 
 
 
