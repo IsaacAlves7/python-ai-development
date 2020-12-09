@@ -268,9 +268,10 @@ Por exemplo, conhecimento como os abaixo expressos, podem ser fácil e naturalme
 </ul>
 Uma regra é formada por uma <em>premissa simples ou composta</em> (usando operadores lógicos) e uma ou mais conclusões que são acionadas quando as premissas são verdadeiras. As premissas/conclusões são também chamadas de situação/ação ou ainda de antecedente/consequente das regras. Os <b>sistemas baseados em regras</b> usam inferência <b>Modus Pones</b>. Assim, dado que o fato A é verdadeiro e a implicação A®B é verdadeira, conclui-se que o fato B é verdadeiro. Os sistemas que usam esta técnica de representação empregam técnicas de busca por regras e inferência de novos fatos, de forma a encontrar os fatos que tenham sido definidos como objetivos. A ideia é encontrar um caminho entre os fatos e conhecimentos que se tem e os fatos que se deseja descobrir.</p>
 <p>Por exemplo, considere que temos os seguintes conhecimentos:</p>
-<h4>Regra 1:</h4>
 <ul>
-  <li><b>Regra 1:</b> Se a temperatura ambiente está acima de 35 graus. Então a atmosfera está úmida.</li>
+  <li><b>Regra 1:</b> Se a temperatura ambiente está acima de 35 graus. Então o tempo está quente.</li>
+  <li><b>Regra 2:</b> Se a umidade relativa do ar é maior que 75%. Então a atmosfera está úmida.</li>
+  <li><b>Regra 3:</b> Se o tempo está quente e a atmosfera está úmida.</li>
 </ul>
 
 
