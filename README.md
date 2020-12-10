@@ -299,11 +299,14 @@ Uma regra é formada por uma <em>premissa simples ou composta</em> (usando opera
 
 <p>Considere, por exemplo, que temos a seguinte base de conhecimentos:</p>
 <ul>
-  <li><b>Regra 1:</b></li>
-  <li><b>Regra 2:</b></li>
-  <li><b>Regra 3:</b></li>
-  <li><b>Regra 4:</b></li>  
+  <li><b>Regra 1:</b> Se a taxa de juros é baixa. Então a bolsa de valores está em alta.</li>
+  <li><b>Regra 2:</b> Se a taxa de juros é alta. Então a bolsa de valores está em baixa.</li>
+  <li><b>Regra 3:</b> Se a cotação do Dólar está baixa. Então a taxa de juros é alta.</li>
+  <li><b>Regra 4:</b> Se a cotação do Dólar está alta. Então a taxa de juros é baixa.</li>  
 </ul>
+<p>Considere também que conhecemos o seguinte fato:
+  Fato 1: a cotação do Dólar está baixa.
+  O que desejamos saber é: "Qual a tendência da bolsa de valores?"</p>
 
 
 
