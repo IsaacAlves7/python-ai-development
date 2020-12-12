@@ -371,8 +371,8 @@ Como a CF(F) anterior era 0,383, a nova CF(F) = 0,567 + 0,383 - 0,567 * 0,383 = 
 Em qualquer caso, a atribuição dos fatores de confiança relativos às implicações é de responsabilidade do especialista que definiu a regra e, provavelmente, é oriundo da experiência na aplicação do conhecimento formal aprendido em casos de uso do passado.</p>
 
 # Cap 04: 🔀 Lógica Nebulosa (Fuzzy) e Sistemas baseados em regras Fuzzy 💹
-## 🔀 Conjuntos Nebulosos 💹
-
+## 🔀 Conjuntos Nebulosos 🌁
+<p>Um <b>conjunto nebuloso</b>, também chamado de <b>conjunto fuzzy</b>, é uma função que permite a entrada de um valor escalar e fornece como saída um número entre zero e um, que representa o grau de pertinência (µ) da entrada ao conjunto fuzzy. Por exemplo, podemos definir o conjunto de pessoas altas com dois diferentes tipos de função ilustrados na figura.</p>
 
 
 
