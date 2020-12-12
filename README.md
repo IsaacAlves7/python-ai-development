@@ -5,7 +5,7 @@
 
 <h2>Introduction - Overview about the Python AI 🐍🌳🧠🔀🧬🤖👤📈</h2>
 <ol>
-  <li><a href=".cap1">AI - Artificial Intelligence</a></li>
+  <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-01--ai---artificial-intelligence-%EF%B8%8F">AI - Artificial Intelligence</a></li>
   <li>Graph search strategy at no cost</li>
   <li>Production Rules and Expert Systems</li>
   <li>Data Science</li>  
