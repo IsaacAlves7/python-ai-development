@@ -409,7 +409,7 @@ SE temperatura é morna E fluxo é médio ENTÃO gire a torneira um pouco à esq
 <blockquote>A defuzzificação combina os valores produzidos pelas diversas regras que tenham sido acionadas para uma determinada entrada, produzindo, a partir da combinação dos conjuntos fuzzy, uma saída escalar adequada.</blockquote>
 
 ## 💹 Nomenclatura 💹
-<p>Domínio do conjunto fuzzy é o universo de valores possíveis para um determinado conjunto. Para o conjunto fuzzy de pessoas altas, visto anteriormente o domínio é aberto (de 0 a +). Já para o conjunto de pessoas de meia idade o domínio é fechado (20 a 70). 
+<p>Domínio do conjunto fuzzy é o universo de valores possíveis para um determinado conjunto. Para o conjunto fuzzy de pessoas altas, visto anteriormente o domínio é aberto (de 0 a +∞). Já para o conjunto de pessoas de meia idade o domínio é fechado (20 a 70). 
 
 Suporte do conjunto é o subconjunto do domínio para o qual o grau de pertinência é maior que zero. Para o conjunto de pessoas de meia idade, é o intervalo de 30 a 60. </p>
 
