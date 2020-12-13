@@ -489,9 +489,9 @@ O valor de saída z é calculado como: z = (MC1 . µC1 + MC2 . µC2) / (µC1 + �
 <p><b>Sistemas fuzzy</b> são muito utilizados em aplicações de controle. Algumas destas aplicações, podem ser encontradas em uma ferramenta que possui uma versão de demonstração chamada <b>FuzzyTech</b>. Um destes exemplos é o controle de um guindaste que se movimenta em uma dimensão linear e deve posicionar uma determinada carga em uma plataforma. O controle fuzzy envolve o cálculo da potência a ser aplicada ao motor (positiva ou negativa para movimentar o guindaste nos dois sentidos de direção), a partir das informações de ângulo (em graus) que a carga faz com o eixo vertical e distância (em jardas) que a mesma se encontra da plataforma. A figura ilustra o sistema que se deseja controlar.</p>
 <blockquote>💡 Dica: Esta figura e as figuras seguintes foram retiradas do aplicativo <a href="https://www.fuzzytech.com/">FuzzyTech</a>.</blockquote>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102020026-68851a00-3d55-11eb-8714-254d767277b5.jpg"/></div>
-<p>A variável de entrada ângulo é modelada pelos valores lingüísticos pos-big, pos-small, zero, neg-small e neg-big. Seu universo do discurso é dado na figura.</p>
+<p>A variável de entrada ângulo é modelada pelos valores linguísticos pos-big, pos-small, zero, neg-small e neg-big. Seu universo do discurso é dado na figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102020222-7b4c1e80-3d56-11eb-96cc-f9d416fe2982.jpg"/></div>
-
+<p>A variável de entrada distância é modelada pelos valores linguísticos neg-close, zero, close, medium e far. Seu universo do discurso é dado na figura.</div>
 
 
 
