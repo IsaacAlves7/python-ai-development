@@ -509,7 +509,7 @@ O valor de saída z é calculado como: z = (MC1 . µC1 + MC2 . µC2) / (µC1 + �
 Para o referido valor de distância (13 jardas), dois conjuntos possuem µ > 0 (observe que a linha vertical que parte do valor 13 corta duas curvas de funções de pertinência). Ou seja, distância=medium com µ =0,76 e distância=far com µ =0,24. Observe a figura. </p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102022993-3a113a00-3d69-11eb-8968-b9520d728b04.jpg"/></div>
 <p>Da mesma forma, para o ângulo (-45 graus), dois conjuntos possuem m>0 (observe que a linha vertical que parte do valor -45 também corta duas curvas de funções de pertinência). Neste caso, ângulo=neg_small com m=0,30 e ângulo=neg_big com m=0,70. Observe a figura.</p>
-
+<div align="center"><img src="https://user-images.githubusercontent.com/61624336/102023114-02ef5880-3d6a-11eb-91b4-c3b65731419b.jpg"/></div>
 
 
 
