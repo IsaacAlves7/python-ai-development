@@ -408,8 +408,10 @@ SE temperatura é muito quente E fluxo é baixo ENTÃO gire a torneira muito à 
 SE temperatura é morna E fluxo é médio ENTÃO gire a torneira um pouco à esquerda.</blockquote>
 <blockquote>A defuzzificação combina os valores produzidos pelas diversas regras que tenham sido acionadas para uma determinada entrada, produzindo, a partir da combinação dos conjuntos fuzzy, uma saída escalar adequada.</blockquote>
 
+## 💹 Nomenclatura 💹
+<p>Domínio do conjunto fuzzy é o universo de valores possíveis para um determinado conjunto. Para o conjunto fuzzy de pessoas altas, visto anteriormente o domínio é aberto (de 0 a +). Já para o conjunto de pessoas de meia idade o domínio é fechado (20 a 70). 
 
-
+Suporte do conjunto é o subconjunto do domínio para o qual o grau de pertinência é maior que zero. Para o conjunto de pessoas de meia idade, é o intervalo de 30 a 60. </p>
 
 
 
@@ -486,9 +488,6 @@ SE temperatura é morna E fluxo é médio ENTÃO gire a torneira um pouco à esq
 <img src="https://user-images.githubusercontent.com/61624336/100897899-f5e78500-349e-11eb-8237-b700ba6afacb.png"/>
 ### Imagem ilustrando um exemplo modelo de rede neural
 <img src="https://miro.medium.com/max/3000/1*BIpRgx5FsEMhr1k2EqBKFg.gif" width="1070"/>
-<h2>🔀 Sistemas Nebulosos (Lógica Fuzzy) 💹</h2>
-<img src="https://emgotas.files.wordpress.com/2016/11/lc3b3gica-fuzzy2.jpg?w=840" width="1070"/>
-<p></p>
 <h2>🧬 Computação Evolucionária (Algoritmos Genéticos) 👨‍👩‍👦</h2>
 <h1>🧠 Machine Learning 🤖</h1>
 <img src="https://res.cloudinary.com/springboard-images/image/upload/q_auto,f_auto,fl_lossy/wordpress/2019/07/sb-blog-what-is-mle.png" width="1700"/>
