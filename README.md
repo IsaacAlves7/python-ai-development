@@ -523,7 +523,10 @@ Se DISTÂNCIA = medium e ÂNGULO = neg_small</br>
 Então POTÊNCIA = pos_high</br>
 temos uma premissa com MIN(0,76; 0,30) = 0,30. Logo, o gráfico da variável de saída terá a forma da figura.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102025974-1e625f80-3d7a-11eb-984c-a45f48e16e23.jpg"/></div>
-
+<p>Finalmente, para a terceira regra,</br>
+Se DISTÂNCIA = medium e ÂNGULO = neg_big</br>
+Então POTÊNCIA = pos_medium</br>
+temos o grau de pertinência da premissa como MIN(0,76; 0,70) = 0,70. Assim o gráfico da variável de saída terá a forma da figura.</p>
 
 
 
