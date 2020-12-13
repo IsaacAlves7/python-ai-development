@@ -419,7 +419,7 @@ Suporte do conjunto é o subconjunto do domínio para o qual o grau de pertinên
 
 O universo do discurso é de 100 a 360 graus.</p>
 
-
+<p>As operações com os conjuntos Fuzzy visam encontrar o grau de veracidade das afirmativas que fazem parte dos antecedentes das regras. Essas operações básicas (União, Interseção, Complemento) são realizadas com o grau de pertinência (µ) de um valor ao conjunto. Para saber se um valor pertence ao conjunto Fuzzy, devemos saber se o valor pertence ao Domínio do conjunto, ao seu Suporte e se está acima do limite a-cut.
 
 
 
