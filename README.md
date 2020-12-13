@@ -10,7 +10,7 @@
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-03--regras-de-produ%C3%A7%C3%A3o-e-sistemas-especialistas-">📖 Production Rules and Expert Systems 💼</a></li>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-04--l%C3%B3gica-nebulosa-fuzzy-e-sistemas-baseados-em-regras-fuzzy-">🔀 Nebulous Logic (Fuzzy) and Systems based in Fuzzy rules 💹</a></li>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-05--fuzzy-system-building-">🔀 Fuzzy system building 🧱</a></li>
-  <li>🐵 Evolved Systems and Genetic Algorithms 🧬</li>  
+  <li>👨‍⚕️ Evolved Systems and Genetic Algorithms 🧬</li>  
   <li>🐍 Python Language and R-Project 🧠</li>  
   <li>🧪 Data Science 📈</li>  
   <li>🤖 Machine Learning 📚</li>  
@@ -542,7 +542,7 @@ Média = (10 x 0,7 + 23,5 x 0,3) / (0,7 + 0,3) = 14,05</br>
 Ou seja, para uma distância de 12 jardas e um ângulo de -45 graus, o controle Fuzzy produz como saída uma potência de 14,05 KW a ser aplicada ao motor do guindaste. Esse valor seria aplicado na planta geraria uma alteração da distância e do ângulo da carga, o que realimentaria o controle fuzzy na próxima iteração.</p>
 <div align="center"><h1>Cap 06: 👨‍⚕️ Evolved Systems and Genetic Algorithms 🧬</h1></div>
 <h2>😵 O problema de otimização 🤯</h2>
-<p>Um problema de otimização consiste em encontrar, entre as muitas soluções possíveis para um problema, aquela ou aquelas que representam a melhor solução. Naturalmente o conceito de melhor se aplica a algum ou a alguns critérios, tais como o custo financeiro, o tempo, a distância, a segurança ou a qualquer outro aspecto que se deseje otimizar.
+<p>Um <b>problema de otimização</b> consiste em encontrar, entre as muitas soluções possíveis para um problema, aquela ou aquelas que representam a melhor solução. Naturalmente o conceito de melhor se aplica a algum ou a alguns critérios, tais como o custo financeiro, o tempo, a distância, a segurança ou a qualquer outro aspecto que se deseje otimizar.
  
 Qualquer processo de otimização pode ser resumido em como encontrar os parâmetros que minimizam (ou maximizam, depende do problema) uma determinada função multi parametrizada (de muitos parâmetros), ou seja, encontrar o MIN ( f( x1, x2, x3,...xn)). 
 
