@@ -2,7 +2,7 @@
 <p>It's a repository of full AI (Artificial Intelligence) programming using the Python language.</p>
 <blockquote><b>Obs</b>: I recommend to repeat the same activities, do the exercices and execute the codes on your own machine. Besides that, it's a repository only focused in AI development, if you need to learn the Python Language and his paradigms, click on picture below to be redirected for the Python programming repository.</blockquote><br>
 <a href="https://github.com/IsaacAlves7/python-programming"><img src="https://www.isktechnologies.com/img/blog/python-for-ai-mi-banner.jpg" width="1070" title="Click on image to access the Python programming repository"/></a>
-
+thrthrujiyj
 <h2>Introduction - Overview about the Python AI 🐍🌳🧠🔀🧬🤖👤📈</h2>
 <ol>
   <li><a href="https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-01--ai---artificial-intelligence-%EF%B8%8F">🧠 AI - Artificial Intelligence 🖥️</a></li>
