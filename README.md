@@ -571,6 +571,12 @@ Mesmo trabalhando com uma <em>função mono-parametrizada</em>, é possível que
 <p>Já uma função multimodal possui mais de um máximo global para um determinado intervalo. Tomemos, por exemplo, a função f(x) = sen (x/2) + cos (2x)/1,5 no intervalo -14&lt;x&lt;20, vista na figura 2. A função possui pontos de máximo em x = -9.42, x = 3 e x = 15,71. Nesses pontos temos f(x) = 1,66666..., que vem a ser o valor máximo que a função atinge nesse intervalo.</p>
 <div align="center"><img src="https://user-images.githubusercontent.com/61624336/102041828-36a0a180-3daf-11eb-939a-373c3d02fe9f.jpg"/></div>
 <div align="center"><em><strong>Figura 2:</strong> Função mono-parametrizada multimodal: f(x) = sen (x/2) + cos (2x)/1,5</em></div></br>
+<p>A função que se deseja otimizar é conhecida como Função Objetivo e o intervalo em que se seja buscar uma solução é o Espaço de Busca. Para a função da figura 6.2 o espaço de busca por valores de x é o intervalo entre -14 e 20. 
+Os parâmetros da função podem ainda estar sujeitos a restrições expressas por meio de equações ou inequações, tais como:
+Minimizar f(x) = x2 + y2 + 4
+sujeito às restrições de: 2x - 3y < 5 e de: x + y = 7. 
+ 
+Quando a função objetivo e as funções das restrições possuem apenas relações lineares (operadores aritméticos de adição, subtração multiplicação e divisão), o problema é de Programação Linear. Caso, entretanto, haja algum outro operador nas funções, tais como exponenciação, logaritmos, expressões trigonométricas ou quaisquer outros operadores não lineares, o problema é de Programação não Linear.</p>
 
 
 
