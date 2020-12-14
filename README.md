@@ -54,9 +54,11 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 <p>Ao abordar tais questões, os diversos paradigmas, atualmente pesquisados, obtém mais ou menos sucesso, de acordo com suas <b>características</b>, <b>virtudes</b> e <b>limitações</b>. Uma abordagem ligeira desses paradigmas, que serão estudados melhor ao longo da disciplina, é feita a seguir:</p>
 
 <h3>🌳 Sistemas baseados em conhecimento</h3>
+<div align="center">
 
 [![Probot](https://img.shields.io/badge/-View-blue?style=for-the-badge&logo=Probot&logoColor=white)](https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#-sistemas-de-produ%C3%A7%C3%A3o-)
 
+</div>
 <ul>
   <li><b>Buscas em tabelas, árvores de decisão, busca heurística, sistemas baseados em regras</b>.</li>
   <li>Lidam com <b>conhecimento explícito e representado simbolicamente</b>.</li>  
@@ -67,9 +69,11 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 </ul>
 
 <h3>🧠 Modelos Conexionistas (Redes Neurais)</h3>
+<div align="center">
 
 [![Probot](https://img.shields.io/badge/-View-blue?style=for-the-badge&logo=Probot&logoColor=white)]()
 
+</div>
 <ul>
   <li>Lidam com <b>conhecimento não simbolicamente representado</b>.</li>
   <li>Levemente <b>inspirados no comportamento do cérebro e seus neurônios</b>.</li>  
@@ -81,9 +85,11 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 </ul>
 
 <h3>🔀 Sistemas Nebulosos (Lógica Fuzzy)</h3>
+<div align="center">
 
 [![Probot](https://img.shields.io/badge/-View-blue?style=for-the-badge&logo=Probot&logoColor=white)](https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-04--l%C3%B3gica-nebulosa-fuzzy-e-sistemas-baseados-em-regras-fuzzy-)
 
+</div>
 <ul>
   <li>Modelam os <b>modos imprecisos do raciocínio aproximado que influenciam na habilidade humana de tomar decisões</b>.</li>
   <li>Realizam o <b>raciocínio aproximado, com proposições imprecisas, descritas em linguagem natural usando a teoria de conjuntos nebulosos como ferramenta para convertê-las em formato numérico.</b></li>  
@@ -91,9 +97,11 @@ De uma forma geral, o termo “inteligência” é revestido de um glamour natur
 </ul>
 
 <h3>🧬 Computação Evolucionária (Algoritmos Genéticos)</h3>
+<div align="center">
 
 [![Probot](https://img.shields.io/badge/-View-blue?style=for-the-badge&logo=Probot&logoColor=white)](https://github.com/IsaacAlves7/python-ai-development/blob/main/README.md#cap-06-%EF%B8%8F-evolved-systems-and-genetic-algorithms-)
 
+</div>
 <ul>
   <li>São algoritmos de otimização global que baseiam-se nos mecanismos da <b>seleção natural e da genética</b>.</li>
   <li>Empregam <b>uma estratégia de busca paralela e estruturada</b>, que é voltada em direção ao reforço da busca de pontos de “alta aptidão”.</li>  
