@@ -544,11 +544,11 @@ Ou seja, para uma distância de 12 jardas e um ângulo de -45 graus, o controle 
 <img src="https://www.genengnews.com/wp-content/uploads/2019/05/GettyImages-1084312676.jpg" width="1070"/>
 <h2>😵 O problema de otimização 🤯</h2>
 <p>Um <b>problema de otimização</b> consiste em encontrar, entre as muitas soluções possíveis para um problema, aquela ou aquelas que representam a melhor solução. Naturalmente o conceito de melhor se aplica a algum ou a alguns critérios, tais como o custo financeiro, o tempo, a distância, a segurança ou a qualquer outro aspecto que se deseje otimizar.
- 
+
 Qualquer processo de otimização pode ser resumido em como encontrar os parâmetros que minimizam (ou maximizam, depende do problema) uma determinada função multi parametrizada (de muitos parâmetros), ou seja, encontrar o MIN ( f( x1, x2, x3,...xn)). 
 
 Todo problema de maximização pode ser transformado em um problema de minimização e vice versa. Por exemplo, tomando-se a função mono-parametrizada y = f(x) = 2-x2, no intervalo (-2<x<2), teremos um único ponto (x=0) que maximiza a função</p>
-
+<p>
 
 
 
