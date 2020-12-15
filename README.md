@@ -580,9 +580,11 @@ Quando a função objetivo e as funções das restrições possuem apenas relaç
 <blockquote><b>Parâmetros contínuos</b> podem levar a situações onde haja uma quantidade infinita de soluções possíveis (combinações de diferentes valores para os parâmetro que otimizam a função objetivo e não ferem nenhuma restrição). </blockquote>
 <blockquote><b>Parâmetros discretos</b> possuem sempre uma quantidade finita de soluções, dado que a quantidade de valores discretos em um intervalo é também finita e qualquer solução é uma combinação desses valores. Dentro dos problemas com parâmetros discretos, uma classe de problemas importante é a dos que buscam uma sequência de específica de valores, tais como uma sequencia de tarefas ou uma sequencia de locais a serem visitados. Tais problemas são conhecidos como <b>problemas de Otimização Combinatóra</b></blockquote>
 
-
-
-
+## 👨‍⚕️ Soluções para o problema de otimização 😵
+<p>Existem muitas e diversificadas classes de técnicas aplicáveis a problemas de otimização. Algumas naturalmente se aplicam melhor a alguns problemas do que a outros, mas todas têm alguma restrição. Vamos comentar a seguir algumas dessas classes de soluções.</p>
+<ol>
+  <li>Uma primeira ideia, usando <b>força bruta computacional</b>, pode ser simplesmente gerar aleatoriamente soluções, ou seja, valores aleatórios para os parâmetros dentro do espaço de busca e testar as soluções geradas para cada conjunto de parâmetros, comparando os resultados dos testes. Esse método é conhecido como <b>Busca Aleatória</b> e sua principal deficiência está no grande esforço computacional necessário a encontrar uma solução satisfatória, que pode inclusive, dependendo do espaço de busca do problema, virtualmente inviabilizar a obtenção de uma solução satisfatória. </li>
+</ol>
 
 
 
